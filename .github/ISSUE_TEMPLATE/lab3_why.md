@@ -1,9 +1,9 @@
 ---
 name: lab3_why
-about: Create a report to help us improve
-title: ''
-labels: ''
-assignees: ''
+about: Create a meeting minutes
+title: 'Lab3 meeting minutes'
+labels: 'important'
+assignees: 'Howie'
 
 ---
 
