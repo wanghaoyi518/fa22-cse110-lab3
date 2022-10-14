@@ -1,2 +1,1 @@
-# Lab 2 - Starter
-https://github.com/wanghaoyi518/Lab2_Starter/blob/main/index.html
+https://github.com/wanghaoyi518/fa22-cse110-lab3/blob/add_css_3/index.html
